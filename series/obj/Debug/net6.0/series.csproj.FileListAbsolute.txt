@@ -1,0 +1,15 @@
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\series.exe
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\series.deps.json
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\series.runtimeconfig.json
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\series.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\ref\series.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\bin\Debug\net6.0\series.pdb
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.csproj.AssemblyReference.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.AssemblyInfoInputs.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.AssemblyInfo.cs
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.csproj.CoreCompileInputs.cache
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\ref\series.dll
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.pdb
+C:\Users\alcir.amorim.d.silva\OneDrive - Accenture\Documents\Bootcamp APP DIO\series\obj\Debug\net6.0\series.genruntimeconfig.cache

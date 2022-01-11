@@ -6,34 +6,34 @@ namespace series.Models
     {
         private List<Serie> listaSerie = new List<Serie>();
 
-        public void Atualiza(int id, Serie entidade)
+        public void Atualiza(int id, Serie objeto)
         {
-            throw new NotImplementedException();
+            listaSerie[id] = objeto;
         }
 
         public void Exclui(int id)
         {
-            throw new NotImplementedException();
+            listaSerie[id].Excluir();
         }
 
-        public void Insere(Serie entidade)
+        public void Insere(Serie objeto)
         {
-            throw new NotImplementedException();
+            listaSerie.Add(objeto);
         }
 
         public List<Serie> Lista()
         {
-            throw new NotImplementedException();
+            return listaSerie;
         }
 
         public int ProximoId()
         {
-            throw new NotImplementedException();
+            return listaSerie.Count;
         }
 
-        public Serie RetornaPOrId(int id)
+        public Serie RetornaPorId(int id)
         {
-            throw new NotImplementedException();
+            return listaSerie[id];
         }
     }
 }

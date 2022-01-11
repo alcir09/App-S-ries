@@ -4,7 +4,7 @@ namespace series.Interfaces
     {
          List<T> Lista();
 
-         T RetornaPOrId(int id);
+         T RetornaPorId(int id);
          void Insere( T entidade);
          void Exclui(int id);
          void Atualiza(int id, T entidade);

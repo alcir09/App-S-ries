@@ -8,6 +8,7 @@ namespace series.Models
         private String Titulo { get; set; }
         private string Descricao { get; set; }
         private int Ano { get; set; }
+        private bool Excluido {get;  set; }
 
         public Serie(int id, Genero genero, string titulo, string descricao, int ano){
 
@@ -16,6 +17,7 @@ namespace series.Models
             this.Titulo    = titulo;
             this.Descricao = descricao;
             this.Ano       = ano;
+            this.Excluido = false;
         } 
 
         //MÉTODOS
@@ -38,6 +40,10 @@ namespace series.Models
         public int RetornaId(){
 
             return this.Id;
+        }
+
+        public void Excluir(){
+            this.Excluido = true;
         }
 
     }
