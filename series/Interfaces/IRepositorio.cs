@@ -6,8 +6,8 @@ namespace series.Interfaces
 
          T RetornaPorId(int id);
          void Insere( T entidade);
-         void Exclui(int id);
-         void Atualiza(int id, T entidade);
+         void Excluir(int id);
+         void Atualizar(int id, T entidade);
          int ProximoId();
 
 

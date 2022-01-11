@@ -6,12 +6,12 @@ namespace series.Models
     {
         private List<Serie> listaSerie = new List<Serie>();
 
-        public void Atualiza(int id, Serie objeto)
+        public void Atualizar(int id, Serie objeto)
         {
             listaSerie[id] = objeto;
         }
 
-        public void Exclui(int id)
+        public void Excluir(int id)
         {
             listaSerie[id].Excluir();
         }

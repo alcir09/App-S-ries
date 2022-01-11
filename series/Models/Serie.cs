@@ -28,6 +28,7 @@ namespace series.Models
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano início: " + this.Ano + Environment.NewLine;
+            retorno += "Excluído: " + this.Excluido;
 
             return retorno;
         }
@@ -44,6 +45,10 @@ namespace series.Models
 
         public void Excluir(){
             this.Excluido = true;
+        }
+
+        public bool RetornaExcluido(){
+           return this.Excluido;
         }
 
     }
